@@ -1,0 +1,4 @@
+name: TalentBank
+version: 1.0.0
+main: com.github.talentbank.bukkit.TBBukkitPlugin
+api-version: 1.19
